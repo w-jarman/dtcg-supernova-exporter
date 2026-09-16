@@ -1,0 +1,18 @@
+{
+    "id": "supernovaio.exporter-style-dictionary-v5",
+    "name": "Style Dictionary v5 (DTCG)",
+    "description": "Export semantic DTCG tokens for Style Dictionary v5.",
+    "author": "Supernova.io",
+    "organization": "Supernova.io",
+    "homepage": "https://supernova.io",
+    "version": "1.0.0",
+    "usesBrands": true,
+    "usesThemes": true,
+    "executable": "/dist/build.js",
+    "engine": "latest",
+    "tags": [
+        "DTCG",
+        "Tokens",
+        "Style Dictionary"
+    ]
+}
